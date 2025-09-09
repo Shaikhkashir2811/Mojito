@@ -22,7 +22,7 @@ This project showcases smooth transitions, animations, and an attractive UI.
 ---
 
 ## 🌍 Live Demo
-🔗 [Mojito Landing Page](https://Mojito.netlify.app)  
+🔗 [Mojito Landing Page](https://mojito-steel-phi.vercel.app)  
 
 ---
 
