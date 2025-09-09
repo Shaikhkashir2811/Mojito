@@ -1,7 +1,7 @@
 # 🍸 Landing Page Mojito
 
-A modern, responsive landing page built with **React, CSS and GSAP animations**.  
-This project is designed to showcase smooth transitions, animations, and an attractive UI.
+A modern, responsive landing page built with **React, CSS, and GSAP animations**.  
+This project showcases smooth transitions, animations, and an attractive UI.
 
 ---
 
@@ -14,22 +14,27 @@ This project is designed to showcase smooth transitions, animations, and an attr
 ---
 
 ## 🛠️ Technologies Used
-- React
+- React  
 - CSS3 (Flexbox & Grid)  
 - JavaScript (ES6)  
 - GSAP (GreenSock Animation Platform)  
 
 ---
 
+## 🌍 Live Demo
+🔗 [Mojito Landing Page](https://Mojito.netlify.app)  
 
+---
 
 ## 📂 How to Run
 1. Clone the repo:  
    ```sh
    git clone https://github.com/Shaikhkashir2811/Mojito.git
-cd CockTail
-cd gsap_cocktails
+   
+   cd CockTails
 
-npm install
-npm run dev
+   cd gsap_cocktails
 
+   npm install
+   
+   npm run dev
